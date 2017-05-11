@@ -1,0 +1,11 @@
+--- a/src/flatc.cpp
++++ b/src/flatc.cpp
+@@ -16,7 +16,7 @@
+ 
+ #include "flatbuffers/flatc.h"
+ 
+-#define FLATC_VERSION "1.6.0 (" __DATE__ ")"
++#define FLATC_VERSION "1.6.0 (" "2017-05-10" ")"
+ 
+ namespace flatbuffers {
+ 

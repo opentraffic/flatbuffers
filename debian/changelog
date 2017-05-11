@@ -1,0 +1,5 @@
+flatbuffers (1.6.0-0ubuntu1) xenial; urgency=low
+
+  * Initial release.
+
+ -- Matt Amos <zerebubuth@gmail.com>  Wed, 10 May 2017 17:25:41 +0100

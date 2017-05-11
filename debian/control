@@ -1,0 +1,14 @@
+Source: flatbuffers
+Priority: optional
+Maintainer: Team Valhalla <valhalla@mapzen.com>
+Build-Depends: debhelper (>= 9), cmake
+Standards-Version: 3.9.7
+Section: contrib/misc
+Homepage: https://github.com/google/flatbuffers
+
+Package: flatbuffers
+Section: contrib/misc
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Memory Efficient Serialization Library
+ Memory efficient serialization library and IDL compiler.
